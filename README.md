@@ -16,6 +16,7 @@ The dashboard offers a comprehensive analysis of sales performance, customer pur
 - Power BI
 - DAX (Data Analysis Expressions)
 - Data Visualization
+- Excel
 
 ## 🎯 Objective
 To analyze Amazon sales data and provide actionable insights into sales performance, customer preferences, and product trends through an interactive Power BI dashboard.
